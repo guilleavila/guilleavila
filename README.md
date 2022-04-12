@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!
 I'm a FullStack developer and a UX Designer who loves creating things!
 Here you'll find my latests projects.
 
