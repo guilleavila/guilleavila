@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Guille! 🌟
 
 <!--
 **guilleavila/guilleavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub profile! 
+I'm a FullStack developer and a UX Designer who loves creating things!
+Here you'll find my latests projects.
+
+🌱 I’m currently learning TypeScript
+
+[![linkedin link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guillermo-ávila
+)
