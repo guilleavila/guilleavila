@@ -1,20 +1,5 @@
 ### 🌟 Hi, I'm Guille!
 
-<!--
-**guilleavila/guilleavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Welcome to my GitHub profile!
 
 I'm a FullStack developer and a UX Designer who loves creating things!
@@ -22,6 +7,7 @@ I'm a FullStack developer and a UX Designer who loves creating things!
 Here you'll find my latests projects.
 
 
+📫 How to reach me guille9797@hotmail.com
 
 
 🌱 I’m currently learning TypeScript, GraphQL and Apollo.
