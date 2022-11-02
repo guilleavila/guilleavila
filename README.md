@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I'm a FullStack developer and a UX Designer who loves creating things!
 
-Here you'll find my latests projects.
+Here you'll find my latest projects.
 
 
 📫 How to reach me guille9797@hotmail.com
