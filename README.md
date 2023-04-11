@@ -6,6 +6,7 @@ I'm a FullStack developer and a UX Designer who loves creating things!
 
 Here you'll find my latest projects.
 
+Take a look at my personal portfolio: https://www.guilleavila.com/
 
 📫 How to reach me guille9797@hotmail.com
 
